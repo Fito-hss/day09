@@ -14,8 +14,8 @@ class GetDriver:
             desired_caps = {}
             # 设备信息
             desired_caps['platformName'] = 'Android'
-            desired_caps['platformVersion'] = '5.1'
-            desired_caps['deviceName'] = 'CSX0217728000025'
+            desired_caps['platformVersion'] = '6.0.1'
+            desired_caps['deviceName'] = '385328ea'
             # app的信息 /
             desired_caps['appPackage'] = 'com.yunmall.lc'
             desired_caps['appActivity'] = 'com.yunmall.ymctoc.ui.activity.MainActivity'
